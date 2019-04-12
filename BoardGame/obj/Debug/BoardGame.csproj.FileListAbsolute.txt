@@ -1,0 +1,13 @@
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.csprojResolveAssemblyReference.cache
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Form1.resources
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Properties.Resources.resources
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.csproj.GenerateResource.Cache
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.exe
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.exe
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
+c:\users\stormi\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Form2.resources
+C:\Users\Stormi\Documents\Visual Studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Form3.resources
+C:\Users\Stormi\Documents\Visual Studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Form4.resources
+C:\Users\Stormi\Documents\Visual Studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.Form5.resources
